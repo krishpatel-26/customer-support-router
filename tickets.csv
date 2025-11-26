@@ -1,0 +1,11 @@
+id,user_message,true_category,true_priority
+1,"My payment failed but money was deducted.",Billing,High
+2,"I forgot my password and can't log in.",Account,Medium
+3,"App keeps crashing when I click on settings.",Technical,High
+4,"How can I change my subscription plan?",Account,Low
+5,"I was charged twice for my monthly fee.",Billing,High
+6,"The website is very slow today.",Technical,Medium
+7,"Please delete my account.",Account,High
+8,"I want to update my billing address.",Billing,Low
+9,"Your app UI is confusing.",Other,Low
+10,"I keep getting an unknown error code 503.",Technical,High
